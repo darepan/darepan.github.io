@@ -1,0 +1,7 @@
+# Ignore pinegrow backup files.
+/_pgbackup
+/css/_pgbackup
+/bootstrap/css/_pgbackup
+
+index-bak.html
+pinegrow.json
